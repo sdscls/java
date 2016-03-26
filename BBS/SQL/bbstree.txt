@@ -1,0 +1,13 @@
+Ant fight elephent						id = 1, pid = 0, rootid = 1
+	Elephent is defeated				id = 2, pid = 1, rootid = 1
+		Ant also pay a lot of price		id = 3, pid = 2, rootid = 1
+		Nonsense						id = 4, pid = 2, rootid = 1
+			Not Nonsense				id = 5, pid = 4, rootid = 1
+		Elephent is in hospital			id = 9, pid = 2, rootid = 1
+			Ant is nurse				id = 10,pid = 9, rootid = 1
+	How could that possible				id = 6, pid = 1, rootid = 1
+		How could that impossible		id = 7, pid = 6, rootid = 1
+		The possibility is very high	id = 8, pid = 6, rootid = 1
+		
+
+
